@@ -53,8 +53,8 @@
 
 ##### DASHBOARD DE LABORATORIA
 
-[![Navegacion Git](/imagenes/Bienvenida.jpeg)]()
+[![Bienvenida](/imagenes/Bienvenida.jpeg)]()
 
-[![Navegacion Git](/imagenes/paginaInternaInscritas.jpeg)]()
+[![Pagina Interna Inscritas](/imagenes/paginaInternaInscritas.jpeg)]()
 
-[![Navegacion Git](/imagenes/paginaInternaCompara.jpeg)]()
+[![Pagina Interna Compara](/imagenes/paginaInternaCompara.jpeg)]()
